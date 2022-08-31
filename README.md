@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zachHFT
 - 👀 I’m interested in market making, high frequency trading, sentiment analysis, with a focus on cryptocurrencies.
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on market making, hyperparameters estimation
+- 💞️ I’m looking to collaborate on network data analysis
 - 📫 How to reach me : azln on Discord
 
 <!---
